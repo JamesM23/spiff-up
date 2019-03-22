@@ -1,0 +1,39 @@
+.jumbotron{
+    background-color: green;
+    color: brown;
+    text-align: left;
+}
+body{
+    background-color: black;
+}
+h2{
+    font-size: 50px;
+    color: aquamarine;
+    text-align: center;
+    font-stretch: expanded;
+}
+.jumbotron2{
+    background-color:grey;
+    color: brown;
+    text-align: center;
+    height: 100%;
+}
+
+.dropdown{
+    align-content: center;
+}
+
+.jumbotron3{
+    background-color:grey;
+    color: brown;
+    text-align: center;
+    height: 100%;
+}
+ .navbar{
+    background-color:black;
+    color: brown;
+ }
+
+ footer{
+     font-size: 30px;
+ }
